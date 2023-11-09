@@ -4,6 +4,8 @@ I'm an investment banker turned software engineer. I decided to pursue a differe
 
 Looking back at my career, I really enjoyed my time automating tasks via Python and Excel Macros. This was the most fun I had at any job, and this experience inspired me to switch careers.
 
+**LGBTQ+, Immigrant and First-gen College Grad**
+
 ### I'm currently learning:
 I am currently learning DSA and undergoing the 100 Days of Code: Python course on Udemy. You can view my progress [here](https://github.com/JessieChiu1/Angela_Yu_Python).
 
