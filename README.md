@@ -9,7 +9,7 @@ Looking back at my career, I really enjoyed my time automating tasks via Python 
 ### I'm currently learning:
 I am currently learning DSA and undergoing the 100 Days of Code: Python course on Udemy. You can view my progress [here](https://github.com/JessieChiu1/Angela_Yu_Python).
 
-I am currently trying to web scrape data from [Fragrantica](https://www.fragrantica.com/) for data analysis, but running into some blockers! You can view my progress [here](https://github.com/JessieChiu1/Fragrance_Data_Analysis)
+I am currently close to launching Misfit, a web app designed for the transgender community to share clothing and style recommendations!
 
 ### I've dabbled in:
 TypeScript, JavaScript, Python, HTML, CSS, React.js, Node.js, Express.js, MongoDB, Mongoose, Firebase, PostgreSQL, pandas, smtplib, Twilio, BeautifulSoup, Selenium, Flask, Jest, Supertest, unit testing, end to end testing.
