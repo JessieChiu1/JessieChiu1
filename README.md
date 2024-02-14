@@ -1,19 +1,19 @@
-# Hi there! 👋 I am Jessie.
+# Welcome to my GitHub Profile! 👋
 
-I'm an investment banker turned software engineer. I decided to pursue a different career path because I was really bored at my job. I've always wanted a career where I could learn every day and challenge myself consistently.
+Hey there! I'm Jessie, a former investment banker turned software engineer. I made the leap into the tech world seeking a career that would keep me engaged and challenged on a daily basis.
 
-Looking back at my career, I really enjoyed my time automating tasks via Python and Excel Macros. This was the most fun I had at any job, and this experience inspired me to switch careers.
+## About Me
+As a member of the LGBTQ+ community, an immigrant, and a first-generation college graduate, I bring a diverse perspective to everything I do.
 
-**LGBTQ+, Immigrant and First-gen College Grad**
+## My Journey
+Reflecting on my career, I found the most joy in automating tasks using Python and Excel Macros. This sparked my passion for coding and ultimately led me to transition into software engineering. From contributing to a scavenger hunt [website](https://100ways.sendchinatownlove.com/) aimed to promote local small businesses to my passion project [Misfit](https://www.misfit.fashion/), a place for the transgender community to share clothing and style recommendations, I am excited that programming has allowed me to make the world a better place by creating websites and tools for marginalized and often forgotten communities.
 
-### I'm currently learning:
-I am currently learning DSA and undergoing the 100 Days of Code: Python course on Udemy. You can view my progress [here](https://github.com/JessieChiu1/Angela_Yu_Python).
+## Technologies I've Explored
+I've explored a wide range of technologies and languages including:
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python
+- **Technologies:** React.js, Next.js, React-Redux, Node.js, Express.js, MongoDB, PostgreSQL, Selenium, Jest, AWS S3, Fluent UI
 
-I am currently close to launching Misfit, a web app designed for the transgender community to share clothing and style recommendations!
+## Get in Touch
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jessiechiu12) or shoot me an [email](mailto:jessiechiu12@gmail.com). I'm always open to networking and collaboration opportunities!
 
-### I've dabbled in:
-TypeScript, JavaScript, Python, HTML, CSS, React.js, Node.js, Express.js, MongoDB, Mongoose, Firebase, PostgreSQL, pandas, smtplib, Twilio, BeautifulSoup, Selenium, Flask, Jest, Supertest, unit testing, end to end testing.
-
-### How to reach me:
-[LinkedIn](https://www.linkedin.com/in/jessiechiu12) | [Email](mailto:jessiechiu12@gmail.com)
-
+Thanks for stopping by! 😊
